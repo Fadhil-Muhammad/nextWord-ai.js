@@ -1,0 +1,21 @@
+{
+  "name": "nextword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^7.11.2",
+    "@tensorflow/tfjs": "^4.20.0",
+    "csv-parser": "^3.0.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "natural": "^7.0.6",
+    "stream": "^0.0.2"
+  }
+}
